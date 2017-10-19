@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.playerOneDiv {
+    padding-bottom: 25px;
+}
+
+.playerTwoDiv {
+    padding-bottom: 65px
+}
+
+.goButtonDiv {
+    padding-bottom: 20px;
+}
+
+.displayDiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.titlePlayer {
+    font-family: Pacifico;
+    padding-bottom: 20px;
+}
+
+.titleWinner {
+    font-family: Pacifico;
+    color: #9ACDFB;
+}
+
+.gameChoiceButton {
+    margin-right: 30px;
+}
+
+.finalButton {
+    width: 24%;
+}
+
+img {
+    height: 60px;
+}
